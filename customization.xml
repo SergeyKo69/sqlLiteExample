@@ -11,5 +11,6 @@
       <option name="myInitialPosition" value="-1" />
     </group>
     <action id="CommentByLineComment" icon="$USER_HOME$/Downloads/comment_line.jpg" />
+    <action id="ReformatCode" icon="$USER_HOME$/Downloads/reform.jpg" />
   </component>
 </application>
