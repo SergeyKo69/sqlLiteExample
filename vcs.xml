@@ -22,8 +22,12 @@
           <option name="url" value="https://github.com/SergeyKo69/gb-personal-finance.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/kissaten/heroku-eureka-server-demo.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Dropbox/Java" />
+    <option name="cloneParentDir" value="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Work/Java/Examples/HerokuEureka" />
   </component>
 </application>
