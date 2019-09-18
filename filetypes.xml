@@ -1,11 +1,11 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="klib" type="ARCHIVE" />
       <mapping ext="mp4" type="Native" />
       <mapping pattern="TeamViewer" type="PLAIN_TEXT" />
       <mapping ext="ldif" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
+      <mapping ext="cvt" type="PLAIN_TEXT" />
       <mapping ext="rtf" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
