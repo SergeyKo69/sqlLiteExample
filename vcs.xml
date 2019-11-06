@@ -38,9 +38,13 @@
           <option name="url" value="http://github.com" />
           <option name="userName" value="SergeyKo69" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.com:devrosa/report-service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Work/Java/Primefaces" />
+    <option name="cloneParentDir" value="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Work/Java/Macrohome/Projects/RosaKhutor/microservices" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
