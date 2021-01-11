@@ -6,10 +6,13 @@
       <mapping ext="mp4" type="Native" />
       <mapping pattern="TeamViewer" type="PLAIN_TEXT" />
       <mapping ext="cvt" type="PLAIN_TEXT" />
+      <mapping ext="part2" type="PLAIN_TEXT" />
       <mapping ext="rtf" type="PLAIN_TEXT" />
+      <mapping ext="part3" type="PLAIN_TEXT" />
       <mapping ext="cli" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="ldif" type="PLAIN_TEXT" />
+      <mapping ext="part1" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
     </extensionMap>
