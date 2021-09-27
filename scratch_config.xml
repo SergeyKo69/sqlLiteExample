@@ -1,0 +1,13 @@
+<application>
+  <component name="ScratchConfig">
+    <option name="defaultScratchMeaning" value="TOPMOST" />
+    <option name="fullScratchNamesOrdered">
+      <list>
+        <option value="rest-api.http" />
+        <option value="generated-requests.http" />
+      </list>
+    </option>
+    <option name="lastOpenedScratch" value="generated-requests.http" />
+    <option name="scratchesFolderPath" value="$APPLICATION_CONFIG_DIR$/scratches" />
+  </component>
+</application>
