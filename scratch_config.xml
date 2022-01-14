@@ -5,6 +5,7 @@
       <list>
         <option value="rest-api.http" />
         <option value="generated-requests.http" />
+        <option value="rest-api_1.http" />
       </list>
     </option>
     <option name="lastOpenedScratch" value="generated-requests.http" />
