@@ -25,7 +25,7 @@
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="GotoNextBookmark" is_action="true" action_type="1" position="21">
+    <group value="GotoPreviousBookmark" is_action="true" action_type="1" position="21">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
