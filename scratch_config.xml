@@ -7,6 +7,7 @@
         <option value="generated-requests.http" />
         <option value="rest-api_1.http" />
         <option value="rest-api_2.http" />
+        <option value="mobile_auth.http" />
       </list>
     </option>
     <option name="lastOpenedScratch" value="rest-api_2.http" />
