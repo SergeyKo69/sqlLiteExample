@@ -10,7 +10,7 @@
         <option value="mobile_auth.http" />
       </list>
     </option>
-    <option name="lastOpenedScratch" value="rest-api_2.http" />
+    <option name="lastOpenedScratch" value="mobile_auth.http" />
     <option name="scratchesFolderPath" value="$APPLICATION_CONFIG_DIR$/scratches" />
   </component>
 </application>
